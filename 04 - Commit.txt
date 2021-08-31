@@ -3,3 +3,20 @@ Um Commit é um pacote de alterações feitas no repositório.
 Cada commit possui arquivos alterados, autor e uma mensagem de resumo.
 Agora o arquivo está pronto para ser empacotado em um commit. 
 Escreva o comando de commit incluindo uma mensagem que explique o que sua alteração faz no repositório.
+
+comando 
+
+
+git commit -m "Aqui voce descrevera as alteracoes feitas"
+
+apos esse comando, realize o  git log 
+
+onde mostrara o seu comimit mais ou menos dessa forma 
+
+commit a9de62f1cae0d4e4ea50fca5f20feee16d91526c (HEAD -> master)
+Author: Alexandre Freire <alexandrefreireds@gmail.com>
+Date:   Tue Aug 31 15:04:44 2021 -0400
+
+veja que a sequencia de caracteres, servira de registro e tambem como um pondo de restauracao, onde voce podera `voltar no tempo`
+a qualquer momento. 
+

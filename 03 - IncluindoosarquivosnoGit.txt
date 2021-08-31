@@ -1,0 +1,12 @@
+No primeiro momento, todos os arquivos criados e alteracoes feitas, nao estao no git propriamente dito.
+
+entao faca os comandos 
+
+git status     (mostrara todos os arquivos que foram criados ou modificados em vermelho) 
+
+entao basta digitar 
+
+git add *      (pronto todos os arquivos agora fazem parte do git)
+
+confira realizando novamente o comando git status e veja que estara todos em  verde 
+

@@ -1,0 +1,19 @@
+Primeiros Passos
+
+Criar sua pasta manualmente em seu sistema operacional.
+
+Apos a Instalacao do GitHub https://git-scm.com/downloads
+
+Abrir a sua pasta criada e com o Botao  direito clicar em Git Bash Here
+
+Agora o prompt de comando git esta com o endereco de sua pasta.
+
+Para que o Git reconheca e trabalhe com essa pasta, voce deve realizar o primeiro comando.
+
+git init 
+
+Sera criada uma pasto oculta dentro da sua pasta, pois sao os arquivos de controle do github. 
+
+
+
+

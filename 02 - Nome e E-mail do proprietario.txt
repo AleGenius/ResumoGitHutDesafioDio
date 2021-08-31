@@ -1,0 +1,15 @@
+Para que tudo seja sincronizado com o servidor, 
+
+se faz necessario que tenha o nome do usuario e e-mail do editor. 
+
+para isso basta voce pesquisar 
+
+ git config --global user.email 
+ git config --global user.name
+
+caso nao exista ou esteja incorreto, basta voce repetir o comando da seguinte forma 
+
+ git config --global user.email "seuemail@gmail.com" (para incluir o seu e-mail) 
+
+ git config --global user.name "Seu nome" (para incluir o seu nome)
+

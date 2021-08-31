@@ -1,0 +1,5 @@
+
+Um Commit é um pacote de alterações feitas no repositório. 
+Cada commit possui arquivos alterados, autor e uma mensagem de resumo.
+Agora o arquivo está pronto para ser empacotado em um commit. 
+Escreva o comando de commit incluindo uma mensagem que explique o que sua alteração faz no repositório.
